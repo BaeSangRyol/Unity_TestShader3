@@ -7,4 +7,5 @@ Directory Structures
 ### Server
 
 ### Client
-* Project Insert
+* Initialize Project
+* Test File Insert
